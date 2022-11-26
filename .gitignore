@@ -1,15 +1,6 @@
 # Repo-specific GitIgnore ----------------------------------------------------------------------------------------------
-*.jpg
-*.jpeg
-*.png
-*.bmp
-*.tif
 *.tiff
 *.heic
-*.JPG
-*.JPEG
-*.PNG
-*.BMP
 *.TIF
 *.TIFF
 *.HEIC
@@ -17,8 +8,6 @@
 *.mov
 *.MOV
 *.avi
-*.data
-*.json
 
 storage.googleapis.com
 
