@@ -1,0 +1,76 @@
+YOLOv5 version: v5.0
+Epoch: 100
+Base model: yolov5m.pt
+Base model config file: /content/drive/MyDrive/YOLOv5m/models/yolov5m.yaml
+YOLOv5 version: v5.0
+Epoch: 100
+Base model: yolov5m.pt
+Base model config file: /content/drive/MyDrive/YOLOv5m/models/yolov5m.yaml
+YOLOv5 version: v5.0
+Epoch: 100
+Base model: yolov5m.pt
+Base model config file: /content/drive/MyDrive/YOLOv5m/models/yolov5m.yaml
+YOLOv5 version: v5.0
+Epoch: 100
+Base model: yolov5m.pt
+Base model config file: /content/drive/MyDrive/YOLOv5m/models/yolov5m.yaml
+YOLOv5 version: v5.0
+Epoch: 100
+Base model: yolov5m.pt
+Base model config file: /content/drive/MyDrive/YOLOv5m/models/yolov5m.yaml
+YOLOv5 version: v5.0
+Epoch: 100
+Base model: yolov5m.pt
+Base model config file: /content/drive/MyDrive/YOLOv5m/models/yolov5m.yaml
+YOLOv5 version: v5.0
+Epoch: 100
+Base model: yolov5m.pt
+Base model config file: /content/drive/MyDrive/YOLOv5m/models/model.yaml
+YOLOv5 version: v5.0
+Epoch: 100
+Base model: yolov5m.pt
+Base model config file: /content/drive/MyDrive/YOLOv5m/models/model.yaml
+YOLOv5 version: v5.0
+Epoch: 100
+Base model: yolov5m.pt
+Base model config file: /content/drive/MyDrive/YOLOv5m/models/model.yaml
+YOLOv5 version: v5.0
+Epoch: 100
+Base model: yolov5m.pt
+Base model config file: /content/drive/MyDrive/YOLOv5m/models/model.yaml
+YOLOv5 version: v5.0
+Epoch: 100
+Base model: yolov5m.pt
+Base model config file: /content/drive/MyDrive/YOLOv5m/models/custom_model.yaml
+YOLOv5 version: v5.0
+Epoch: 100
+Base model: yolov5m.pt
+Base model config file: /content/drive/MyDrive/YOLOv5m/models/custom_model.yaml
+YOLOv5 version: v5.0
+Epoch: 100
+Base model: yolov5m.pt
+Base model config file: /content/drive/MyDrive/YOLOv5m/models/custom_model.yaml
+YOLOv5 version: v5.0
+Epoch: 100
+Base model: yolov5m.pt
+Base model config file: /content/drive/MyDrive/YOLOv5m/models/custom_model.yaml
+YOLOv5 version: v5.0
+Epoch: 100
+Base model: yolov5m.pt
+Base model config file: /content/drive/MyDrive/YOLOv5m/models/model_CBAM.yaml
+YOLOv5 version: v5.0
+Epoch: 100
+Base model: yolov5m.pt
+Base model config file: /content/drive/MyDrive/YOLOv5m/models/model_CBAM.yaml
+YOLOv5 version: v5.0
+Epoch: 100
+Base model: yolov5m.pt
+Base model config file: /content/drive/MyDrive/YOLOv5m/models/model_SE.yaml
+YOLOv5 version: v5.0
+Epoch: 100
+Base model: yolov5m.pt
+Base model config file: /content/drive/MyDrive/YOLOv5m/models/model_SE.yaml
+YOLOv5 version: v5.0
+Epoch: 100
+Base model: yolov5m.pt
+Base model config file: /content/drive/MyDrive/YOLOv5m/models/model_SE.yaml
